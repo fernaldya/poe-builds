@@ -17,9 +17,9 @@ def main():
     driver = webdriver.Chrome(options=chrome_options)
     
     url = 'https://poe.ninja/builds/affliction?sort=dps'
-    table_rows = scrape(url, driver)
+    table_rows, scrape_time = scrape(url, driver)
     builds = fetch_builds(table_rows)
-    tabularise_clean(builds)
+    tabularise_clean(builds, scrape_time)
     
 if __name__ == '__main__':
     main()
