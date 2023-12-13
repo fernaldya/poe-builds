@@ -1,0 +1,101 @@
+Level,Class,Ascendancy,DPS,Skill,Keystone,Life,ES
+96,Witch,Occultist,355000000,['Ice Trap skill'],"['Hex Master', 'Pain Attunement', 'Eldritch Battery']",1735,477
+92,Witch,Occultist,271000000,['Ice Trap skill'],"['Hex Master', 'Pain Attunement', 'Eldritch Battery']",1262,550
+98,Witch,Occultist,236000000,['Ice Trap skill'],"[""Zealot's Oath"", 'Eldritch Battery']",1337,403
+94,Shadow,Assassin,236000000,['Ice Trap skill'],"['Hex Master', 'Pain Attunement', 'Eldritch Battery']",1459,437
+90,Witch,Occultist,183000000,['Ice Trap skill'],"['Hex Master', 'Pain Attunement', 'Eldritch Battery']",1229,427
+93,Shadow,Assassin,177000000,['Ice Trap skill'],"['Hex Master', 'Pain Attunement', 'Eldritch Battery']",1361,430
+94,Witch,Occultist,174000000,['Ice Trap skill'],"['Hex Master', 'Pain Attunement', 'Eldritch Battery']",1300,420
+94,Shadow,Saboteur,164000000,['Ice Trap skill'],"['Hex Master', 'Pain Attunement', 'Eldritch Battery']",1320,365
+94,Witch,Occultist,134000000,['Ice Trap skill'],"['The Agnostic', 'Pain Attunement', 'Eldritch Battery']",1228,415
+96,Templar,Hierophant,127000000,['Ice Spear skill'],"['Ancestral Bond', 'Mind Over Matter', 'Hex Master', 'Pain Attunement']",1441,500
+94,Shadow,Assassin,120000000,['Ice Trap skill'],"['Hex Master', 'Pain Attunement', 'Eldritch Battery']",1391,309
+89,Shadow,Assassin,105000000,['Ice Trap skill'],"['Hex Master', 'Pain Attunement', 'Eldritch Battery']",1320,235
+94,Shadow,Assassin,92000000,['Ice Trap skill'],"['Hex Master', 'Pain Attunement', 'Eldritch Battery']",1387,466
+94,Shadow,Assassin,84000000,['Ice Trap skill'],"['Hex Master', 'Pain Attunement', 'Eldritch Battery']",1331,481
+94,Witch,Occultist,61000000,['Hexblast skill'],"['Hex Master', 'Pain Attunement', 'Eldritch Battery']",2695,2067
+95,Marauder,Berserker,56000000,['Bladestorm skill'],"['Call to Arms', 'Unwavering Stance', 'Iron Will']",5462,383
+94,Shadow,Assassin,53000000,['Ice Trap skill'],"['Hex Master', 'Pain Attunement', 'Eldritch Battery']",1364,333
+97,Witch,Occultist,47000000,['Hexblast skill'],"['Mind Over Matter', 'Hex Master', 'Eldritch Battery']",2993,1896
+96,Witch,Occultist,43000000,['Hexblast skill'],"['Hex Master', 'Pain Attunement', 'Eldritch Battery']",2842,1898
+97,Witch,Occultist,42000000,['Hexblast skill'],"['Hex Master', 'Eldritch Battery']",2671,1608
+95,Shadow,Assassin,41000000,['Ice Trap skill'],"['Eldritch Battery', 'Ghost Dance']",3729,926
+97,Marauder,Berserker,41000000,['Flicker Strike skill'],"['Call to Arms', 'Iron Reflexes']",3604,0
+95,Witch,Occultist,40000000,['Hexblast skill'],"['Hex Master', 'Eldritch Battery']",3260,1826
+95,Witch,Occultist,39000000,['Hexblast skill'],"['Mind Over Matter', 'Hex Master', 'Pain Attunement', 'Eldritch Battery']",2614,2047
+94,Shadow,Assassin,38000000,['Ice Trap skill'],"['Eldritch Battery', 'Ghost Dance']",3058,810
+96,Ranger,Deadeye,37000000,['Ice Spear skill'],['Eldritch Battery'],4086,870
+91,Witch,Occultist,36000000,['Hexblast skill'],"['Hex Master', 'Pain Attunement', 'Eldritch Battery']",2790,1974
+96,Witch,Elementalist,35000000,['Fire Trap skill'],"['Elemental Overload', 'Lethe Shade']",2478,712
+92,Templar,Hierophant,35000000,['Crackling Lance skill'],"['The Agnostic', 'Hex Master']",2616,0
+93,Marauder,Berserker,35000000,['Flicker Strike skill'],"['Call to Arms', 'Unwavering Stance']",2632,0
+95,Templar,Hierophant,35000000,['Ice Spear skill'],"['Ancestral Bond', 'Mind Over Matter', 'Minion Instability', 'Pain Attunement']",2050,726
+94,Templar,Hierophant,35000000,['Ice Spear skill'],"['Ancestral Bond', 'Mind Over Matter', 'Minion Instability', 'Pain Attunement']",2136,802
+96,Witch,Occultist,34000000,['Hexblast skill'],"['Mind Over Matter', 'Hex Master', 'Pain Attunement', 'Eldritch Battery']",2835,1807
+96,Witch,Elementalist,32000000,['Fire Trap skill'],"['Elemental Overload', 'Eldritch Battery', 'Lethe Shade']",2775,576
+96,Templar,Hierophant,30000000,['Ice Spear skill'],"['Ancestral Bond', 'Mind Over Matter', 'Minion Instability', 'Pain Attunement']",1903,756
+93,Witch,Occultist,30000000,['Hexblast skill'],"['Mind Over Matter', 'Pain Attunement', 'Eldritch Battery', 'Ghost Dance']",2317,1885
+89,Witch,Occultist,29000000,['Hexblast skill'],"['Hex Master', 'Eldritch Battery']",2260,1777
+91,Templar,Hierophant,29000000,['Ice Spear skill'],"['Ancestral Bond', 'Mind Over Matter', 'Minion Instability', 'Pain Attunement']",2460,626
+96,Shadow,Saboteur,29000000,['Hexblast skill'],"['Hex Master', 'Eldritch Battery']",3075,1104
+96,Templar,Inquisitor,29000000,['Reap skill'],"['Hex Master', 'Pain Attunement']",2757,911
+93,Shadow,Assassin,29000000,['Ice Trap skill'],"[""Zealot's Oath"", 'Pain Attunement', 'Eldritch Battery', 'Ghost Dance']",1450,754
+95,Duelist,Slayer,28000000,['Flicker Strike skill'],"['Call to Arms', 'Iron Reflexes', 'Elemental Equilibrium']",2509,0
+93,Witch,Occultist,28000000,['Hexblast skill'],"['Hex Master', 'Pain Attunement', 'Eldritch Battery']",2625,2043
+98,Templar,Hierophant,27000000,['Ice Spear skill'],"['Ancestral Bond', 'Mind Over Matter', 'Minion Instability', 'Pain Attunement']",2774,626
+95,Witch,Elementalist,27000000,['Fire Trap skill'],"['Elemental Overload', 'Eldritch Battery', 'Lethe Shade']",3221,720
+92,Witch,Occultist,26000000,['Hexblast skill'],"['Mind Over Matter', 'Hex Master', 'Eldritch Battery']",2640,1963
+96,Witch,Occultist,26000000,['Hexblast skill'],"['Hex Master', 'Pain Attunement', 'Eldritch Battery', 'Ghost Dance']",2903,1904
+93,Witch,Elementalist,26000000,['Lightning Conduit skill'],['Eldritch Battery'],3206,697
+92,Witch,Occultist,26000000,['Hexblast skill'],"['Mind Over Matter', 'Hex Master', 'Eldritch Battery']",2483,2018
+94,Ranger,Deadeye,26000000,['Icicle Mine skill'],['Pain Attunement'],3850,0
+95,Witch,Occultist,26000000,['Hexblast skill'],"['Eldritch Battery', 'Ghost Dance']",2535,2253
+94,Shadow,Assassin,26000000,['Ice Trap skill'],"['Hex Master', 'Pain Attunement', 'Eldritch Battery']",1383,410
+96,Templar,Hierophant,26000000,['Shockwave Totem skill'],"['Ancestral Bond', 'Mind Over Matter', 'Pain Attunement', 'Eldritch Battery']",2620,633
+96,Witch,Occultist,25000000,['Hexblast skill'],"['Pain Attunement', 'Ghost Dance']",2706,2052
+90,Witch,Occultist,25000000,['Hexblast skill'],"['Hex Master', 'Pain Attunement', 'Eldritch Battery']",2164,1528
+93,Witch,Occultist,25000000,['Hexblast skill'],"['Hex Master', 'Eldritch Battery']",3055,1912
+98,Templar,Hierophant,25000000,['Penance Brand skill'],"['Runebinder', 'Hex Master', 'Eldritch Battery']",3251,960
+95,Ranger,Deadeye,25000000,['Icicle Mine skill'],['Pain Attunement'],3686,0
+96,Witch,Occultist,25000000,['Hexblast skill'],"['The Agnostic', 'Eldritch Battery']",2810,1752
+98,Templar,Inquisitor,25000000,['Exsanguinate skill'],[],3448,354
+95,Ranger,Pathfinder,24000000,['Blade Vortex skill'],['Eldritch Battery'],3032,448
+93,Witch,Occultist,24000000,['Hexblast skill'],"['Mind Over Matter', 'Hex Master', 'Eldritch Battery']",2985,2060
+92,Witch,Occultist,24000000,['Hexblast skill'],"['Hex Master', 'Pain Attunement', 'Eldritch Battery']",2800,816
+97,Shadow,Saboteur,23000000,['Hexblast skill'],"['Hex Master', 'Eldritch Battery']",3289,1186
+97,Witch,Occultist,22000000,['Hexblast skill'],"['Mind Over Matter', 'Hex Master', 'Eldritch Battery']",3105,1833
+97,Witch,Occultist,22000000,['Hexblast skill'],"['Hex Master', 'Pain Attunement', 'Eldritch Battery']",3071,2151
+93,Templar,Inquisitor,22000000,['Eye of Winter skill'],"['Mind Over Matter', 'Hex Master', 'Pain Attunement', 'Eldritch Battery']",1419,289
+97,Templar,Hierophant,22000000,['Ice Spear skill'],"['Ancestral Bond', 'Mind Over Matter', 'Minion Instability', 'Pain Attunement']",2768,876
+95,Duelist,Slayer,22000000,['Flicker Strike skill'],"['Call to Arms', 'Iron Reflexes']",3303,0
+94,Templar,Inquisitor,22000000,['Reap skill'],"['The Agnostic', 'Glancing Blows', 'Mind Over Matter', 'Pain Attunement']",2983,1325
+93,Templar,Inquisitor,22000000,['Ice Trap skill'],"['Hex Master', 'Pain Attunement', 'Eldritch Battery']",2931,915
+94,Templar,Inquisitor,21000000,['Reap skill'],"['The Agnostic', 'Glancing Blows', 'Pain Attunement']",2340,1157
+96,Shadow,Saboteur,21000000,['Hexblast skill'],"['Hex Master', 'Pain Attunement']",1763,0
+94,Templar,Hierophant,21000000,['Ice Spear skill'],"['Ancestral Bond', 'Mind Over Matter', 'Minion Instability', 'Pain Attunement']",2338,641
+94,Witch,Occultist,20000000,['Hexblast skill'],"['Mind Over Matter', 'Hex Master', 'Eldritch Battery']",3007,2143
+93,Templar,Hierophant,20000000,['Ice Spear skill'],"['Ancestral Bond', 'Mind Over Matter', 'Minion Instability', 'Pain Attunement']",2415,598
+94,Witch,Elementalist,20000000,['Fire Trap skill'],"['Elemental Overload', 'Eldritch Battery', 'Lethe Shade']",3247,1310
+96,Witch,Occultist,19000000,['Hexblast skill'],"['Eldritch Battery', 'Ghost Dance']",3150,2149
+92,Witch,Occultist,19000000,['Hexblast skill'],['Hex Master'],3000,2073
+94,Witch,Occultist,19000000,['Discharge skill'],"['Elemental Equilibrium', 'Pain Attunement']",2049,88
+93,Shadow,Assassin,19000000,['Discharge skill'],"['Hex Master', 'Pain Attunement']",2183,331
+95,Ranger,Deadeye,19000000,['Icicle Mine skill'],['Pain Attunement'],2587,681
+98,Marauder,Berserker,19000000,"['Blade Flurry skill', ""General's Cry skill""]","['Call to Arms', 'Unwavering Stance']",4221,35
+91,Templar,Hierophant,19000000,['Ice Spear skill'],"['Ancestral Bond', 'Mind Over Matter', 'Minion Instability', 'Pain Attunement']",2196,584
+93,Templar,Hierophant,19000000,['Reap skill'],"['Divine Shield', 'The Agnostic']",3815,908
+97,Templar,Hierophant,19000000,['Shockwave Totem skill'],"['Ancestral Bond', 'Hex Master', 'Pain Attunement', 'Eldritch Battery']",2672,1099
+94,Templar,Hierophant,18000000,['Ice Spear skill'],"['Ancestral Bond', 'Mind Over Matter', 'Hex Master', 'Pain Attunement']",2571,854
+97,Templar,Hierophant,18000000,['Ice Spear skill'],"['Ancestral Bond', 'Mind Over Matter', 'Minion Instability']",2615,471
+98,Shadow,Assassin,18000000,['Icicle Mine skill'],['Eldritch Battery'],3066,523
+96,Witch,Occultist,18000000,['Hexblast skill'],"['Hex Master', 'Pain Attunement', 'Eldritch Battery']",2596,2103
+97,Templar,Hierophant,18000000,['Ice Spear skill'],"['Ancestral Bond', 'Mind Over Matter', 'Minion Instability', 'Pain Attunement']",2545,605
+93,Marauder,Berserker,18000000,['Reave skill'],"['Call to Arms', 'Unwavering Stance', 'Iron Will']",5741,45
+94,Templar,Inquisitor,17000000,"['Cyclone skill', 'Ice Spear skill']","['The Agnostic', ""Zealot's Oath""]",6407,8865
+93,Templar,Hierophant,17000000,['Crackling Lance skill'],"['The Agnostic', 'Hex Master']",2763,0
+93,Shadow,Saboteur,17000000,['Hexblast skill'],"['Hex Master', 'Eldritch Battery']",2590,1119
+94,Templar,Hierophant,17000000,['Ice Spear skill'],"['Ancestral Bond', 'Mind Over Matter', 'Pain Attunement']",3115,546
+96,Scion,Ascendant,17000000,['Hexblast skill'],"['Blood Magic', 'Eternal Youth', 'Iron Will', 'Pain Attunement']",12949,0
+94,Templar,Hierophant,16000000,['Ice Spear skill'],"['Ancestral Bond', 'Mind Over Matter', 'Minion Instability', 'Pain Attunement']",2239,609
+90,Witch,Elementalist,16000000,['Fire Trap skill'],"['Elemental Overload', 'Eldritch Battery', 'Lethe Shade']",2462,538
+96,Templar,Hierophant,16000000,['Ice Spear skill'],"['Ancestral Bond', 'Mind Over Matter', 'Minion Instability', 'Pain Attunement']",2476,803
