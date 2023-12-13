@@ -1,7 +1,8 @@
 from datetime import datetime
+from src.scrape import get_time
 import pandas as pd
 
-def tabularise_clean(builds):
+def tabularise_clean(builds, current_time):
     """
     This function tabularises then clean the entire data from the parameter:
     1. builds -> List of objects (builds)
@@ -11,7 +12,7 @@ def tabularise_clean(builds):
     2. Changing Level, Life and ES to integer; Normalising DPS and changing DPS to integer
     3. Saves the dataframe as csv with the current time
     """
-    current_time = datetime.now().strftime('%Y-%m-%d_%H:%M:%S')
+    # current_time = get_time()
     
     df = pd.DataFrame({
         'Level': [build.level for build in builds],
